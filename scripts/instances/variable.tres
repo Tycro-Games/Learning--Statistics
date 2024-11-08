@@ -1,0 +1,6 @@
+[gd_resource type="Resource" script_class="Variable" load_steps=2 format=3 uid="uid://ckh4qngyktuka"]
+
+[ext_resource type="Script" path="res://scripts/key_terms/variable.gd" id="1_7wfmv"]
+
+[resource]
+script = ExtResource("1_7wfmv")

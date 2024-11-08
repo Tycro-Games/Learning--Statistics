@@ -1,0 +1,7 @@
+[gd_resource type="Resource" script_class="TermsDictionary" load_steps=2 format=3 uid="uid://bda05gbj17361"]
+
+[ext_resource type="Script" path="res://scripts/containers/key_terms_container.gd" id="1_nqt7u"]
+
+[resource]
+script = ExtResource("1_nqt7u")
+stats_dictionary = null

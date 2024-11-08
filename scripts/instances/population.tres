@@ -1,0 +1,6 @@
+[gd_resource type="Resource" script_class="Population" load_steps=2 format=3 uid="uid://cvs5q7jysacq6"]
+
+[ext_resource type="Script" path="res://scripts/key_terms/population.gd" id="1_4t75s"]
+
+[resource]
+script = ExtResource("1_4t75s")
